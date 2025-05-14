@@ -1,0 +1,992 @@
+[
+    {
+        "question": "You wake up to a 'we need to talk' text. What's the vibe?",
+        "options": {
+            "A": "Bet. Let's meet, I'm built for plot twists.",
+            "B": "Damn. My heart just fell through the mattress.",
+            "C": "I'll reply later... after I process whatever this is.",
+            "D": "What now?! People love testing my peace."
+        }
+    },
+    {
+        "question": "Your crush posts a pic with someone else and captions it 'mine.'",
+        "options": {
+            "A": "Cuuuute! I hope they're happy 💕 (I'll find better anyway).",
+            "B": "Ouch. Guess I was never in the picture to begin with.",
+            "C": "Okay. Noted. Unbothered.",
+            "D": "Bro what? Why play with my feelings like that?"
+        }
+    },
+    {
+        "question": "Someone tells you: 'You've changed.'",
+        "options": {
+            "A": "Thank you. I worked hard for this glow-up.",
+            "B": "Did I mess something up again?",
+            "C": "Everyone changes. That's life.",
+            "D": "You say that like I owe you the old version of me."
+        }
+    },
+    {
+        "question": "You're home alone with no plans. What are you doing?",
+        "options": {
+            "A": "Dance party in the kitchen + guilty pleasure music.",
+            "B": "Scrolling through memories and deleting none.",
+            "C": "Netflix, background noise, blanket burrito.",
+            "D": "Pacing like I'm beefing with my own thoughts."
+        }
+    },
+    {
+        "question": "A friend left you on read when you needed them. What now?",
+        "options": {
+            "A": "It's okay. Maybe they're just busy. I'll text again.",
+            "B": "Classic. I really thought they cared more.",
+            "C": "Meh. I'll just vent into the void.",
+            "D": "They always ghost when it's real. I'm done."
+        }
+    },
+    {
+        "question": "How do you usually enter a room?",
+        "options": {
+            "A": "Like the main character just hit their cue.",
+            "B": "Quietly, hoping no one even noticed I was late.",
+            "C": "Normally. Just walk in.",
+            "D": "With an inner monologue and external judgment radar on."
+        }
+    },
+    {
+        "question": "You catch yourself rewatching a convo from months ago. Why?",
+        "options": {
+            "A": "It was a good time. I love revisiting joy.",
+            "B": "I still can't believe they said that to me.",
+            "C": "Just bored, honestly.",
+            "D": "Because I'm plotting what I *should've* said."
+        }
+    },
+    {
+        "question": "You lose something important—what's your first thought?",
+        "options": {
+            "A": "It'll turn up. The universe is on my side.",
+            "B": "Nothing good ever stays with me anyway.",
+            "C": "Annoying, but whatever. I'll move on.",
+            "D": "WHO touched my stuff?! I swear--"
+        }
+    },
+    {
+        "question": "Someone gives you fake compliments. You know they're fake.",
+        "options": {
+            "A": "Lmao thanks! I love being everyone's favorite lie.",
+            "B": "Why do I always fall for this crap?",
+            "C": "Smile. Nod. Forget.",
+            "D": "Say it with your chest next time."
+        }
+    },
+    {
+        "question": "You see a photo of your past self. What do you feel?",
+        "options": {
+            "A": "Proud. Look how far I've come.",
+            "B": "That person was happier. I miss them.",
+            "C": "Cool throwback, I guess.",
+            "D": "Ugh. I wanna scream at that version of me."
+        }
+    },
+    {
+        "question": "Your playlist shuffles to *that* one song. What’s your move?",
+        "options": {
+            "A": "Yesss! This track is my soul in audio form.",
+            "B": "Ugh. Not now. I’m tryna not cry today.",
+            "C": "Skip. Heard it a million times.",
+            "D": "Of course this cursed app brings THIS song today."
+        }
+    },
+    {
+        "question": "You bump into your ex while looking fine AF. Reaction?",
+        "options": {
+            "A": "Oh hiiii 😇 Hope you’re still healing.",
+            "B": "Why do I still feel things? I hate this.",
+            "C": "Small nod. Keep walking. Who cares?",
+            "D": "You’ve got 3 seconds to leave before I black out."
+        }
+    },
+    {
+        "question": "Someone flirts with your best friend in front of you. 👀",
+        "options": {
+            "A": "Y’all cute together ngl. I ship it.",
+            "B": "I knew it. I’m the side character again.",
+            "C": "Not my business. I’m just vibing.",
+            "D": "BACK. OFF. They're not even single."
+        }
+    },
+    {
+        "question": "You're on a dating app and someone unmatched you.",
+        "options": {
+            "A": "Their loss. I'm a walking serotonin boost.",
+            "B": "I knew I was never enough.",
+            "C": "Oh. Okay. Moving on.",
+            "D": "Fake vibes. Just say you’re scared of greatness."
+        }
+    },
+    {
+        "question": "You worked hella hard and got 0 recognition. What's next?",
+        "options": {
+            "A": "It's fine. I know what I'm worth.",
+            "B": "Why does no one ever see me?",
+            "C": "Expected it. Meh.",
+            "D": "I’m done being humble. Watch me go full villain arc."
+        }
+    },
+    {
+        "question": "Someone copied your aesthetic and is thriving with it.",
+        "options": {
+            "A": "I inspire the masses. Slay on, copycat.",
+            "B": "Wow. They get praised for what I bled for.",
+            "C": "Whatever. Trends come and go.",
+            "D": "Thief. That was MY vibe before it was cool."
+        }
+    },
+    {
+        "question": "Middle of an argument, they say: 'You're just too sensitive.'",
+        "options": {
+            "A": "Maybe I am. And that's okay.",
+            "B": "I wish I could be numb for once.",
+            "C": "That’s your opinion. I'm chill.",
+            "D": "Say it again. I dare you."
+        }
+    },
+    {
+        "question": "Your comfort show gets rebooted... and it's awful.",
+        "options": {
+            "A": "At least it brought the fandom back together!",
+            "B": "They ruined the one thing I loved.",
+            "C": "Not great, not terrible. It's fine.",
+            "D": "WHO APPROVED THIS MESS?!"
+        }
+    },
+    {
+        "question": "You realize you've been talking to someone who lowkey mirrors you.",
+        "options": {
+            "A": "Omg twin flame vibes! Love that!",
+            "B": "Oh no. I’m toxic, aren’t I?",
+            "C": "Coincidence. Or maybe they’re just observant.",
+            "D": "Great. Another manipulative chameleon."
+        }
+    },
+    {
+        "question": "You're at a party and someone mispronounces your name... again.",
+        "options": {
+            "A": "Haha, no worries! Happens all the time!",
+            "B": "Why do I always feel invisible?",
+            "C": "Correct them politely. Move on.",
+            "D": "Put some respect on my name. It’s not that hard!"
+        }
+    },
+    {
+        "question": "You post something real and no one reacts. What now?",
+        "options": {
+            "A": "Low-key love the silence. I post for me.",
+            "B": "Not even a like? Wow. Maybe I *am* too much.",
+            "C": "It's a post. Who cares?",
+            "D": "I’m shadowbanned or surrounded by fakes. No in-between."
+        }
+    },
+    {
+        "question": "You’re mentally spiraling, but someone says, 'You’re glowing!'",
+        "options": {
+            "A": "Fake it till I make it, baby!",
+            "B": "They don’t see how dead I am inside.",
+            "C": "Smile. Say thanks. Reboot later.",
+            "D": "Oh, so we’re lying now?"
+        }
+    },
+    {
+        "question": "Someone claps back with a better comeback than yours. Be honest:",
+        "options": {
+            "A": "Ooo okay, respect! I’ll learn that one.",
+            "B": "Why do I always freeze in the moment?",
+            "C": "They had one good line. Congrats, I guess.",
+            "D": "Bet. Next time I’m going full verbal warfare."
+        }
+    },
+    {
+        "question": "You randomly remember something cringey from 2015.",
+        "options": {
+            "A": "Aww lil me was so chaotic. Love that journey.",
+            "B": "I wanna crawl out of my skin and vanish.",
+            "C": "Just another brain glitch. Move on.",
+            "D": "Who let me exist unsupervised back then?!"
+        }
+    },
+    {
+        "question": "Someone finishes your sentence… wrong.",
+        "options": {
+            "A": "Haha cute guess tho!",
+            "B": "Wow, do they *ever* listen to me?",
+            "C": "Close enough. Not worth correcting.",
+            "D": "Let. Me. Speak. For. Myself."
+        }
+    },
+    {
+        "question": "You overshare in a moment of weakness and instantly regret it.",
+        "options": {
+            "A": "Eh, maybe they needed to hear it too.",
+            "B": "Why can’t I just shut up for once?",
+            "C": "Whatever. Oversharing is modern connection.",
+            "D": "Delete me from existence. Now."
+        }
+    },
+    {
+        "question": "You walk into a room and everyone stops talking.",
+        "options": {
+            "A": "They were clearly hyping me up. Obviously.",
+            "B": "They hate me. It's confirmed. I'm done.",
+            "C": "Might not even be about me. Whatever.",
+            "D": "Say it to my face next time."
+        }
+    },
+    {
+        "question": "You try to vent but they hit you with 'it could be worse.'",
+        "options": {
+            "A": "True. Perspective helps. Thanks I guess.",
+            "B": "Guess I should just bottle everything up again.",
+            "C": "Mmhm. Classic response. Moving on.",
+            "D": "So we're emotionally bypassing now? Cool."
+        }
+    },
+    {
+        "question": "They say 'you’re being dramatic'—and you were. So?",
+        "options": {
+            "A": "Drama is a performance art and I’m an artist.",
+            "B": "I hate that they’re right. Ugh.",
+            "C": "Fair point. I did the most.",
+            "D": "Don’t gaslight me just because I’m expressive!"
+        }
+    },
+    {
+        "question": "You finally open up, and someone laughs thinking you’re joking.",
+        "options": {
+            "A": "Glad I can make people smile, even unintentionally.",
+            "B": "Why is my pain always entertainment?",
+            "C": "It’s fine. They didn’t get it.",
+            "D": "Wow. Never sharing anything again."
+        }
+    },
+    {
+        "question": "They said 'I’ve never met anyone like you' after 2 weeks. Your brain goes?",
+        "options": {
+            "A": "Soulmates confirmed. I knew it!",
+            "B": "They’ll ghost me after this, won’t they?",
+            "C": "Sweet, but let’s see where this goes.",
+            "D": "Oh great. Another manipulator in disguise."
+        }
+    },
+    {
+        "question": "You finally send a risky ‘I miss you’ text. No reply.",
+        "options": {
+            "A": "They’re probably just busy. No stress.",
+            "B": "I knew it. I ruined everything by being real.",
+            "C": "I’ll wait. It’s not that deep... yet.",
+            "D": "Left me on read? You don’t deserve access to me."
+        }
+    },
+    {
+        "question": "They said ‘we should talk’—but never followed up.",
+        "options": {
+            "A": "Maybe they changed their mind. That’s chill.",
+            "B": "So I’m just... sitting here haunted, cool.",
+            "C": "Maybe they forgot. Happens to everyone.",
+            "D": "Don’t start chaos if you won’t finish it!"
+        }
+    },
+    {
+        "question": "They used to send you playlists. Now it’s radio silence.",
+        "options": {
+            "A": "Good memories. Maybe they’ll come back.",
+            "B": "Everything good in my life disappears eventually.",
+            "C": "It was just music. Relax.",
+            "D": "Don’t breadcrumb me with vibes and vanish!"
+        }
+    },
+    {
+        "question": "You saw their old messages and felt…?",
+        "options": {
+            "A": "Warmed. That version of us was gold.",
+            "B": "Pain. That version of me didn’t know better.",
+            "C": "Nostalgic, but detached.",
+            "D": "Disgusted. I fell for *that*?"
+        }
+    },
+    {
+        "question": "You said 'I love you' first. Instant reply: 'Thanks :)'.",
+        "options": {
+            "A": "LOL awkward but I’m cool with it. At least I was real.",
+            "B": "Time to evaporate into the emotional void.",
+            "C": "Not the response I hoped for, but okay.",
+            "D": "Are you kidding me right now?? Thanks??"
+        }
+    },
+    {
+        "question": "They keep liking your stories but don’t text anymore.",
+        "options": {
+            "A": "They still care, just distant. It’s fine.",
+            "B": "I’m just digital background noise now.",
+            "C": "It’s not deep. Just social media behavior.",
+            "D": "Stop lurking. Be real or leave me alone."
+        }
+    },
+    {
+        "question": "They posted something *that’s clearly* about you. Do you…?",
+        "options": {
+            "A": "Blush and screenshot it 12 times.",
+            "B": "Cry because it feels too late now.",
+            "C": "Observe. Stay quiet. Stay safe.",
+            "D": "DM them with a ‘???’ and an emotional grenade."
+        }
+    },
+    {
+        "question": "You opened up. They said ‘you’re being sensitive.’",
+        "options": {
+            "A": "Maybe I was. But I’ll learn and grow.",
+            "B": "Every time I open up, I get punished.",
+            "C": "Meh. Let’s just not do this again.",
+            "D": "NO. I *get* to feel things without being shamed!"
+        }
+    },
+    {
+        "question": "You had a dream about them. Now your whole day is…?",
+        "options": {
+            "A": "Sparkly. Maybe it means something.",
+            "B": "Heavy. They’re gone, even in my sleep.",
+            "C": "Weird but kinda funny. Brain’s wild.",
+            "D": "WHY is my subconscious still into this clown?!"
+        }
+    },
+    {
+        "question": "You’re up late, no one to talk to. First thought?",
+        "options": {
+            "A": "Perfect time to romanticize my solitude.",
+            "B": "Why does no one ever stay for real?",
+            "C": "Eh. Peace and quiet’s underrated.",
+            "D": "I hate this silence. It’s screaming."
+        }
+    },
+    {
+        "question": "You rewatch your fave comfort show again. Why?",
+        "options": {
+            "A": "It makes me feel safe. Like I’m hugged.",
+            "B": "Because everything else feels too much.",
+            "C": "It’s familiar. Predictable. Fine.",
+            "D": "Because I can’t stand how empty life feels right now."
+        }
+    },
+    {
+        "question": "You typed a whole paragraph to someone… then deleted it.",
+        "options": {
+            "A": "It helped just writing it out. No regrets.",
+            "B": "They don’t care anyway, what’s the point?",
+            "C": "I wasn’t sure how it would land. Safer not to.",
+            "D": "Tired of being the one who always says too much."
+        }
+    },
+    {
+        "question": "You suddenly remember something embarrassing you did in 2016.",
+        "options": {
+            "A": "LOL I was iconic even in cringe.",
+            "B": "No wonder people left me back then.",
+            "C": "Happens. Brains are weird like that.",
+            "D": "SHUT UP, MEMORY. WHY NOW?!"
+        }
+    },
+    {
+        "question": "You stare at your ceiling and start thinking about…?",
+        "options": {
+            "A": "My dream life. It’s coming. Just wait.",
+            "B": "Everything that went wrong and why it’s my fault.",
+            "C": "The cracks in the paint and the weird shapes.",
+            "D": "Why I’m still stuck while others move on."
+        }
+    },
+    {
+        "question": "You see ‘typing...’ from someone you miss. Then it disappears.",
+        "options": {
+            "A": "Maybe they’ll say something later. Hope’s cute.",
+            "B": "Of course they changed their mind. I’m forgettable.",
+            "C": "Whatever. Probably wasn’t important.",
+            "D": "Don’t start unless you finish. I’m not a draft."
+        }
+    },
+    {
+        "question": "It’s 3AM and you’re listening to sad music. What’s the vibe?",
+        "options": {
+            "A": "Healing through melody. My soul's vibin'.",
+            "B": "Lyrics hitting too close. Tears unlocked.",
+            "C": "Just background noise, really.",
+            "D": "Every song reminds me of people I wish I never met."
+        }
+    },
+    {
+        "question": "You see everyone online having fun. You feel…?",
+        "options": {
+            "A": "Happy for them. My turn will come.",
+            "B": "Invisible. Like I don’t belong anywhere.",
+            "C": "It’s just curated content. No biggie.",
+            "D": "Tired of pretending I don’t care anymore."
+        }
+    },
+    {
+        "question": "Someone posts a quote that describes *exactly* how you feel.",
+        "options": {
+            "A": "Universe is sending me signs. I see it.",
+            "B": "How did a stranger write what I can’t say?",
+            "C": "Relatable. Moving on.",
+            "D": "Stop exposing my feelings without asking!"
+        }
+    },
+    {
+        "question": "You dreamt you were happy. Then woke up.",
+        "options": {
+            "A": "Motivation to chase that dream IRL.",
+            "B": "Back to reality. And it hurts.",
+            "C": "Weird. Dreams don’t mean much anyway.",
+            "D": "I’d rather sleep forever than face this mess."
+        }
+    },
+    {
+        "question": "You wake up to a 'we need to talk' text. What's the vibe?",
+        "options": {
+            "A": "Bet. Let’s meet, I’m built for plot twists.",
+            "B": "Damn. My heart just fell through the mattress.",
+            "C": "I’ll reply later... after I process whatever this is.",
+            "D": "What now?! People love testing my peace."
+        }
+    },
+    {
+        "question": "Your crush posts a pic with someone else and captions it ‘mine.’",
+        "options": {
+            "A": "Cuuuute! I hope they’re happy 💕 (I’ll find better anyway).",
+            "B": "Ouch. Guess I was never in the picture to begin with.",
+            "C": "Okay. Noted. Unbothered.",
+            "D": "Bro what? Why play with my feelings like that?"
+        }
+    },
+    {
+        "question": "Someone tells you: ‘You’ve changed.’",
+        "options": {
+            "A": "Thank you. I worked hard for this glow-up.",
+            "B": "Did I mess something up again?",
+            "C": "Everyone changes. That’s life.",
+            "D": "You say that like I owe you the old version of me."
+        }
+    },
+    {
+        "question": "You’re home alone with no plans. What are you doing?",
+        "options": {
+            "A": "Dance party in the kitchen + guilty pleasure music.",
+            "B": "Scrolling through memories and deleting none.",
+            "C": "Netflix, background noise, blanket burrito.",
+            "D": "Pacing like I’m beefing with my own thoughts."
+        }
+    },
+    {
+        "question": "A friend left you on read when you needed them. What now?",
+        "options": {
+            "A": "It’s okay. Maybe they’re just busy. I’ll text again.",
+            "B": "Classic. I really thought they cared more.",
+            "C": "Meh. I’ll just vent into the void.",
+            "D": "They always ghost when it’s real. I’m done."
+        }
+    },
+    {
+        "question": "How do you usually enter a room?",
+        "options": {
+            "A": "Like the main character just hit their cue.",
+            "B": "Quietly, hoping no one even noticed I was late.",
+            "C": "Normally. Just walk in.",
+            "D": "With an inner monologue and external judgment radar on."
+        }
+    },
+    {
+        "question": "You catch yourself rewatching a convo from months ago. Why?",
+        "options": {
+            "A": "It was a good time. I love revisiting joy.",
+            "B": "I still can’t believe they said that to me.",
+            "C": "Just bored, honestly.",
+            "D": "Because I’m plotting what I *should’ve* said."
+        }
+    },
+    {
+        "question": "You lose something important—what's your first thought?",
+        "options": {
+            "A": "It’ll turn up. The universe is on my side.",
+            "B": "Nothing good ever stays with me anyway.",
+            "C": "Annoying, but whatever. I’ll move on.",
+            "D": "WHO touched my stuff?! I swear—"
+        }
+    },
+    {
+        "question": "Someone gives you fake compliments. You know they’re fake.",
+        "options": {
+            "A": "Lmao thanks! I love being everyone’s favorite lie.",
+            "B": "Why do I always fall for this crap?",
+            "C": "Smile. Nod. Forget.",
+            "D": "Say it with your chest next time."
+        }
+    },
+    {
+        "question": "You see a photo of your past self. What do you feel?",
+        "options": {
+            "A": "Proud. Look how far I’ve come.",
+            "B": "That person was happier. I miss them.",
+            "C": "Cool throwback, I guess.",
+            "D": "Ugh. I wanna scream at that version of me."
+        }
+    },
+    {
+        "question": "You’re up late, no one to talk to. First thought?",
+        "options": {
+            "A": "Perfect time to romanticize my solitude.",
+            "B": "Why does no one ever stay for real?",
+            "C": "Eh. Peace and quiet’s underrated.",
+            "D": "I hate this silence. It’s screaming."
+        }
+    },
+    {
+        "question": "You rewatch your fave comfort show again. Why?",
+        "options": {
+            "A": "It makes me feel safe. Like I’m hugged.",
+            "B": "Because everything else feels too much.",
+            "C": "It’s familiar. Predictable. Fine.",
+            "D": "Because I can’t stand how empty life feels right now."
+        }
+    },
+    {
+        "question": "You typed a whole paragraph to someone… then deleted it.",
+        "options": {
+            "A": "It helped just writing it out. No regrets.",
+            "B": "They don’t care anyway, what’s the point?",
+            "C": "I wasn’t sure how it would land. Safer not to.",
+            "D": "Tired of being the one who always says too much."
+        }
+    },
+    {
+        "question": "You suddenly remember something embarrassing you did in 2016.",
+        "options": {
+            "A": "LOL I was iconic even in cringe.",
+            "B": "No wonder people left me back then.",
+            "C": "Happens. Brains are weird like that.",
+            "D": "SHUT UP, MEMORY. WHY NOW?!"
+        }
+    },
+    {
+        "question": "You stare at your ceiling and start thinking about…?",
+        "options": {
+            "A": "My dream life. It’s coming. Just wait.",
+            "B": "Everything that went wrong and why it’s my fault.",
+            "C": "The cracks in the paint and the weird shapes.",
+            "D": "Why I’m still stuck while others move on."
+        }
+    },
+    {
+        "question": "You see ‘typing...’ from someone you miss. Then it disappears.",
+        "options": {
+            "A": "Maybe they’ll say something later. Hope’s cute.",
+            "B": "Of course they changed their mind. I’m forgettable.",
+            "C": "Whatever. Probably wasn’t important.",
+            "D": "Don’t start unless you finish. I’m not a draft."
+        }
+    },
+    {
+        "question": "It’s 3AM and you’re listening to sad music. What’s the vibe?",
+        "options": {
+            "A": "Healing through melody. My soul's vibin'.",
+            "B": "Lyrics hitting too close. Tears unlocked.",
+            "C": "Just background noise, really.",
+            "D": "Every song reminds me of people I wish I never met."
+        }
+    },
+    {
+        "question": "You see everyone online having fun. You feel…?",
+        "options": {
+            "A": "Happy for them. My turn will come.",
+            "B": "Invisible. Like I don’t belong anywhere.",
+            "C": "It’s just curated content. No biggie.",
+            "D": "Tired of pretending I don’t care anymore."
+        }
+    },
+    {
+        "question": "Someone posts a quote that describes *exactly* how you feel.",
+        "options": {
+            "A": "Universe is sending me signs. I see it.",
+            "B": "How did a stranger write what I can’t say?",
+            "C": "Relatable. Moving on.",
+            "D": "Stop exposing my feelings without asking!"
+        }
+    },
+    {
+        "question": "You dreamt you were happy. Then woke up.",
+        "options": {
+            "A": "Motivation to chase that dream IRL.",
+            "B": "Back to reality. And it hurts.",
+            "C": "Weird. Dreams don’t mean much anyway.",
+            "D": "I’d rather sleep forever than face this mess."
+        }
+    },
+  {
+    "question": "You text them ‘I miss you’ and they reply ‘lol same.’ What now?",
+    "options": {
+      "A": "Haha okay, at least we’re chill again.",
+      "B": "‘Lol’? That’s it? Guess I cared more, as usual.",
+      "C": "Not surprised, honestly. Kinda expected this energy.",
+      "D": "Nah, we’re not doing this dry-text nonsense again."
+    }
+  },
+  {
+    "question": "They said they’re not ready for a relationship... two weeks later, they’re cuffed.",
+    "options": {
+      "A": "Aww, they found their peace. Maybe I was a lesson.",
+      "B": "Hurt? Me? Yeah, I’ll cry in HD.",
+      "C": "Knew it. Nothing shocks me anymore.",
+      "D": "Oh cool. So I was just the trial version?"
+    }
+  },
+  {
+    "question": "You find an old playlist you made for someone. Play or skip?",
+    "options": {
+      "A": "Play it loud. Good music stays good, no matter the memory.",
+      "B": "Skipped. Too many feels I didn’t ask for.",
+      "C": "Meh. Might give it a listen while cleaning.",
+      "D": "Delete it. Burn it. Banish it."
+    }
+  },
+  {
+    "question": "You overhear someone talking sh*t about you at a party.",
+    "options": {
+      "A": "Whatever. If I’m the topic, I must be iconic.",
+      "B": "Ouch. Thought they were cool with me.",
+      "C": "Okay... noted. I won’t forget.",
+      "D": "Oh? Say it to my face, coward."
+    }
+  },
+  {
+    "question": "They forgot your birthday. Again.",
+    "options": {
+      "A": "Haha it’s fine. I’ll throw my own party anyway.",
+      "B": "Wow. I really don’t matter to them, huh?",
+      "C": "Another year, another reminder. Nothing new.",
+      "D": "Cool. I’ll forget theirs too, on purpose."
+    }
+  },
+  {
+    "question": "You bump into your ex while looking your worst.",
+    "options": {
+      "A": "Still serving energy. I’m cute regardless.",
+      "B": "Of course. Universe loves embarrassing me.",
+      "C": "Whatever. They’ve seen worse.",
+      "D": "I swear my luck is cursed."
+    }
+  },
+  {
+    "question": "They send a late night ‘hey’ after ghosting you for weeks.",
+    "options": {
+      "A": "Oop, someone missed me 👀.",
+      "B": "Nah. I’m not doing this cycle again.",
+      "C": "*sigh* Let’s see where this goes now.",
+      "D": "BLOCKED. Return to sender."
+    }
+  },
+  {
+    "question": "You open up deeply, and they hit you with ‘that’s crazy.’",
+    "options": {
+      "A": "Lmao relatable. I overshare anyway.",
+      "B": "I knew I shouldn’t have said anything...",
+      "C": "That’s fine. I’ll journal instead next time.",
+      "D": "Nah. That hurt. Never again."
+    }
+  },
+  {
+    "question": "Your friend posts a subtweet that *lowkey* fits your situation.",
+    "options": {
+      "A": "Let me just laugh and pretend it’s not about me.",
+      "B": "Okay wow... didn’t think they’d do me like this.",
+      "C": "I’ll just let it slide. Could be about anyone.",
+      "D": "Say it directly next time, coward."
+    }
+  },
+  {
+    "question": "You confess feelings and they say they ‘value the friendship.’",
+    "options": {
+      "A": "Fair enough. Glad we’re still cool.",
+      "B": "My soul just left my body.",
+      "C": "It happens. Life keeps lifing.",
+      "D": "So I was just emotional entertainment?"
+    }
+  },
+  {
+    "question": "You open Instagram and see your situationship soft-launching someone else.",
+    "options": {
+      "A": "Good for them. Hope it’s real this time.",
+      "B": "Wow... I was just a placeholder, huh?",
+      "C": "Okay. Just another plot twist in my character arc.",
+      "D": "Soft-launch me again and see what happens."
+    }
+  },
+  {
+    "question": "They send a meme you showed them a week ago. Acting like they found it.",
+    "options": {
+      "A": "LOL okay I’ll let them think they’re funny.",
+      "B": "So I’m not even worth a memory check?",
+      "C": "Whatever. Not that deep.",
+      "D": "Are you serious? The disrespect is insane."
+    }
+  },
+  {
+    "question": "You're venting and they say ‘you’re being too emotional.’",
+    "options": {
+      "A": "Okay, maybe I am. But I’m still valid.",
+      "B": "So... I guess I’m too much again.",
+      "C": "I’ll stop. No one really listens anyway.",
+      "D": "Too emotional? Try being less emotionally unavailable."
+    }
+  },
+  {
+    "question": "They untagged themselves from a cute pic you posted together.",
+    "options": {
+      "A": "Maybe they just didn’t like the angle. I’m chill.",
+      "B": "Guess I embarrassed them just by existing.",
+      "C": "No big deal. Just a photo.",
+      "D": "Wow. Petty much?"
+    }
+  },
+  {
+    "question": "You’re crying, and they say ‘don’t be dramatic.’",
+    "options": {
+      "A": "I get it. I’ll laugh through the tears now.",
+      "B": "So my pain is... performative to you?",
+      "C": "Fine. I’ll just stop crying. Happy now?",
+      "D": "Oh I’ll show you *dramatic* real soon."
+    }
+  },
+  {
+    "question": "They kept your hoodie. It’s been 3 months.",
+    "options": {
+      "A": "Haha hope it smells like regret now 💅",
+      "B": "That was my comfort hoodie. I hate this.",
+      "C": "Meh. Hoodies come and go. People too.",
+      "D": "Return my stuff or I’m pulling up."
+    }
+  },
+  {
+    "question": "You're at a party and they ignore you all night.",
+    "options": {
+      "A": "Cool. I’ll shine solo tonight.",
+      "B": "That hurt more than I thought it would.",
+      "C": "People act weird in crowds. It’s whatever.",
+      "D": "Oh they’re fake for real. Bet."
+    }
+  },
+  {
+    "question": "You see them flirting with someone right after you argued.",
+    "options": {
+      "A": "Well, I’m single too. Let’s play.",
+      "B": "Wow... that’s how little I meant?",
+      "C": "They’re just dealing with stuff their way.",
+      "D": "Petty little gremlin. So we’re doing *that* now?"
+    }
+  },
+  {
+    "question": "They call you ‘too intense’ after opening up.",
+    "options": {
+      "A": "Better than being basic, babe.",
+      "B": "Every time I get real, they leave.",
+      "C": "Maybe I *am* too much. Who knows anymore.",
+      "D": "Then go find someone boring. I’m not shrinking."
+    }
+  },
+  {
+    "question": "They said ‘you deserve better’ after hurting you.",
+    "options": {
+      "A": "Facts. And I will find better.",
+      "B": "Why do I always hear this AFTER the damage?",
+      "C": "Whatever. Clichés heal nothing.",
+      "D": "Spare me the guilt trip. Own what you did."
+    }
+  },
+    {
+        "question": "You just saw a group pic you weren't invited to. What’s the move?",
+        "options": {
+            "A": "Aw they look cute tho! Hope they had fun.",
+            "B": "Damn... I really thought I was one of them.",
+            "C": "Not shocked. I’ve been fading out anyway.",
+            "D": "Oh so now I’m the invisible one? Cool."
+        }
+    },
+    {
+        "question": "Someone says 'you remind me of my ex.'",
+        "options": {
+            "A": "Lmao must’ve been iconic, then.",
+            "B": "Ouch. That’s not a compliment, is it?",
+            "C": "Hmm... weird thing to say, but okay.",
+            "D": "Say that again and see what happens."
+        }
+    },
+    {
+        "question": "Your friend gets super close to someone they used to hate.",
+        "options": {
+            "A": "People evolve. Maybe it's chill now.",
+            "B": "They always leave me for others eventually.",
+            "C": "Let them vibe. Not my circus.",
+            "D": "They fake as hell. I knew it."
+        }
+    },
+    {
+        "question": "You overhear people laughing and you think it's about you.",
+        "options": {
+            "A": "Haha maybe I looked cute doing something weird.",
+            "B": "They’re probably making fun of me again.",
+            "C": "Maybe... or maybe not. Doesn’t matter.",
+            "D": "They really need to find a new hobby."
+        }
+    },
+    {
+        "question": "You open up to someone and they just... nod.",
+        "options": {
+            "A": "At least I got it off my chest.",
+            "B": "Why do I even try being vulnerable?",
+            "C": "Maybe they didn’t know what to say.",
+            "D": "Wow. That was cold."
+        }
+    },
+    {
+        "question": "Someone says you’re being 'too much'.",
+        "options": {
+            "A": "Good. I’m not meant to be small.",
+            "B": "I hate that I always come off wrong.",
+            "C": "Maybe I did go a little overboard.",
+            "D": "Funny coming from someone that bland."
+        }
+    },
+    {
+        "question": "You find out someone unfollowed you.",
+        "options": {
+            "A": "Lol their loss. I’m a whole vibe.",
+            "B": "What did I do wrong this time?",
+            "C": "Social media isn’t real anyway.",
+            "D": "Fake energy revealed. As expected."
+        }
+    },
+    {
+        "question": "Someone copies your whole aesthetic.",
+        "options": {
+            "A": "Trendsetter energy, I see 😎",
+            "B": "I’m just a blueprint to be used, huh?",
+            "C": "Maybe it’s a coincidence?",
+            "D": "Be original for ONCE, damn!"
+        }
+    },
+    {
+        "question": "A friend brings up an embarrassing story in front of others.",
+        "options": {
+            "A": "Haha good times! I was wild.",
+            "B": "Can they not? That actually hurt.",
+            "C": "Whatever, they’re just messing around.",
+            "D": "Why embarrass me like that? That’s foul."
+        }
+    },
+    {
+        "question": "You're scrolling late at night. What’s the vibe?",
+        "options": {
+            "A": "Chill music + dreamy thoughts.",
+            "B": "Every post makes me feel like I’m missing life.",
+            "C": "Just mindless scrolling, nothing new.",
+            "D": "Can everyone stop showing off for once?"
+        }
+    },
+    {
+        "question": "Someone says you’re 'mysterious'.",
+        "options": {
+            "A": "Ooo I love that for me, main character energy.",
+            "B": "Means they never really tried to know me.",
+            "C": "Lol okay? Sounds vague af.",
+            "D": "Nah, they just didn’t pay attention."
+        }
+    },
+    {
+        "question": "You post something deep and no one reacts.",
+        "options": {
+            "A": "It was for me anyway. Art heals.",
+            "B": "I knew no one really cares about what I feel.",
+            "C": "Algorithms be wildin’.",
+            "D": "Why do I even bother sharing anything?"
+        }
+    },
+    {
+        "question": "You see someone living your dream life online.",
+        "options": {
+            "A": "That’s inspo, not envy. Let’s go!",
+            "B": "I’ll never get there, will I?",
+            "C": "Good for them. I’ll get mine too... maybe.",
+            "D": "Ugh. Must be nice being handed everything."
+        }
+    },
+    {
+        "question": "You’re asked ‘who are you, really?’",
+        "options": {
+            "A": "A vibe. A soul. A story still unfolding.",
+            "B": "Honestly? I don’t even know anymore.",
+            "C": "Just... a person doing life things.",
+            "D": "Why does everyone want to label me?"
+        }
+    },
+    {
+        "question": "You bump into someone who ghosted you.",
+        "options": {
+            "A": "Smile, wave, act unfazed. I win.",
+            "B": "My chest got heavy in 0.2 seconds.",
+            "C": "Nod and keep walking. No drama.",
+            "D": "The audacity in their face is wild."
+        }
+    },
+    {
+        "question": "You’re told you’re ‘too deep’ or ‘too intense’.",
+        "options": {
+            "A": "Thanks, I’m rare like that.",
+            "B": "Maybe I should tone it down... again.",
+            "C": "Everyone's different, I guess.",
+            "D": "Oh sorry I didn’t come with a filter?"
+        }
+    },
+    {
+        "question": "You have an amazing day but no one to share it with.",
+        "options": {
+            "A": "I’ll journal it, still counts as joy.",
+            "B": "Happy moments feel empty when you’re alone.",
+            "C": "That’s life. Sometimes you just enjoy solo.",
+            "D": "Why’s there never anyone when it matters?"
+        }
+    },
+    {
+        "question": "You get called ‘dramatic’.",
+        "options": {
+            "A": "Theatrics are my cardio, darling.",
+            "B": "That’s how they ignore my real feelings.",
+            "C": "Kinda true sometimes tbh.",
+            "D": "Says the one who starts chaos then dips."
+        }
+    },
+    {
+        "question": "You feel distant from your younger self. How do you react?",
+        "options": {
+            "A": "That kid would be proud of me.",
+            "B": "I feel like I failed who I was.",
+            "C": "People grow. That’s all.",
+            "D": "I want to shake that naive fool."
+        }
+    },
+    {
+        "question": "You're alone in bed, eyes open at 2AM. What’s the thought?",
+        "options": {
+            "A": "Life is weird... but kinda beautiful.",
+            "B": "I feel like no one really sees me.",
+            "C": "Just another night, nothing new.",
+            "D": "Why does everything hit hardest at night?!"
+        }
+    }
+]
